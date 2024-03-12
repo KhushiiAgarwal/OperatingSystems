@@ -30,4 +30,4 @@ A repo to include basic Linux Commands [](docs/linux.md) , Shell (Bash) scriptin
 ## License
 This project is licensed under [License](docs/LICENSE.md)
 
-- If you find my repository helpful, please star⭐ it 🌟.
+###### If you find my repository helpful, please star⭐ it 🌟.
